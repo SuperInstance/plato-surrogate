@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+plato_surrogate/__init__.py
+plato_surrogate.egg-info/PKG-INFO
+plato_surrogate.egg-info/SOURCES.txt
+plato_surrogate.egg-info/dependency_links.txt
+plato_surrogate.egg-info/requires.txt
+plato_surrogate.egg-info/top_level.txt
+tests/test_surrogate.py
